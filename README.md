@@ -18,8 +18,8 @@ A simple Command Line Todo application built with Go.
 
 Clone & install dependencies:
 ```
-git clone https://github.com/yourusername/go-cli-todo.git
-cd go-cli-todo
+git clone https://github.com/gurunath-pujar-dev/golang-cli-todo.git
+cd golang-cli-todo
 go mod tidy
 ```
 
@@ -32,5 +32,6 @@ go run ./ -del [todo-item-no]  #delete todo-item by index
 go run ./ -toggle [todo-item-no]  #toggle todo-item completion by index
 go run ./ -edit [id:new-todo-item]  #edit todo-item with new todo
 ```
+
 
 
