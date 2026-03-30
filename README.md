@@ -2,6 +2,10 @@
 
 A simple Command Line Todo application built with Go.
 
+
+https://github.com/user-attachments/assets/c1ed3243-e654-4d13-88d8-e4fadab8d74f
+
+
 ---
 
 ## 🚀 Features
